@@ -119,6 +119,7 @@ menu{
   flex-wrap: wrap;
   margin: 0;
   padding: 0; 
+  height: calc(100vh - 90px);
 }
 
 .hero-banner-photo, .banner-introduce{
